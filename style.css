@@ -55,7 +55,7 @@ body {
 
 .layout-three-sub {
   width: 49%;
-  height: 40rem;
+  height: 50rem;
 }
 
 /* LAYOUT FOUR */
@@ -87,21 +87,8 @@ body {
 /* LAYOUT SEVEN */
 
 .layout-seven {
-  padding: 2.5rem;
-}
-.layout-seven-main {
-  background-color: #fff;
-}
-.layout-seven-sub {
-  background-color: rgba(128, 128, 128, 0.6);
-  width: 30%;
-  height: 20rem;
-  float: left;
-  margin-right: 4rem;
-}
-
-.layout-seven-sub-one {
-  height: 10rem;
+  padding: 5rem;
+  width: 100%;
 }
 
 .mr-top {
@@ -112,8 +99,11 @@ body {
   width: 30%;
   background-color: #fff;
   display: inline-block;
-  margin-right: 3.8rem;
+  margin-right: 5.4rem;
   padding: 2rem;
+}
+.mr-0 {
+  margin-right: 0;
 }
 
 .inner-box {
